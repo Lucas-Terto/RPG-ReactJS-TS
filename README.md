@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#Curso de Desenvolvimento de jogos com reactjs e typescript.
+Jogo RPG simples com foco no estudo e desenvolvimento profissional.
+
+##Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
